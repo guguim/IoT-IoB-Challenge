@@ -72,8 +72,6 @@ Tamanho mínimo para que um rosto seja detectado.
    - Pontos aproximados (olhos, boca, centro)  
    - Parâmetros utilizados  
 
-Atende aos requisitos do enunciado da Challenge.
-
 ---
 
 ## Considerações Éticas (LGPD)
@@ -87,7 +85,8 @@ Atende aos requisitos do enunciado da Challenge.
 ## Integrantes
 - Hugo Santos — RM553266  
 - Enzo Rodrigues — RM553377  
-- Rafael Cristofali — RM553521  
+- Rafael Cristofali — RM553521 
+- Maria Júlia — RM553384
 
 
 
