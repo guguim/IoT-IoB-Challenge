@@ -21,7 +21,6 @@ O objetivo é demonstrar, localmente, uma aplicação de **detecção facial em 
 
 ## 🖥️ **Demonstração (Screenshot)**
 
-Adicione sua screenshot aqui depois:
 
 ```md
 ![Demonstração](./samples/demo.png)
